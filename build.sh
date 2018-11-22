@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 # Enable logging
 export PACKER_LOG="yes"
 export PACKER_LOG_PATH="build_output.log"
