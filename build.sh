@@ -21,5 +21,3 @@ then
 else
     echo "Build failed!"
 fi
-
-
